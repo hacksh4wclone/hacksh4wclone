@@ -1,6 +1,5 @@
-# Most Important
 ## Hi there 👋
-### 3rd most important
+### I'm Mrinalini, a 4th year CS student. I love coding, chai and teaching my juniors.
 
 
 <!--
